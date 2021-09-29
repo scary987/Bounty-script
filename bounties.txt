@@ -1,0 +1,17 @@
+  1. Sebastien            |  1543
+  2. Richy                |   890
+  3. Dominik              |   630
+  4. Johannes             |   538
+  5. Lukas                |     0
+  6. Hauke                |  -786
+  7. Luna                 |  -806
+  8. Rosa                 |  -860
+  9. Lucie                |  -965
+  9. Hendrik              |  -965
+ 11. Max                  | -1050
+ 12. Matthias             | -1160
+ 13. Konstantin           | -1500
+ 14. Clemens              | -1660
+ 15. Tobias               | -2100
+ 16. Tom                  | -3176
+ 17. Cassandra            | -4763

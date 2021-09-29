@@ -1,0 +1,129 @@
+Chip-Count,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Datum,,04.07.2021,11.07.2021,18.07.2021,23.07.2021,30.07.2021,06.08.2021,13.07.2021,20.08.2021,27.08.2021,17.09.2021,,,,,
+Runde,,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,,,,,,,,,,,,,,,,
+AVG-Stack,20707,965,1471,1661,3150,3070,1742,2592,2385,1991,1680,0,0,0,0,0
+Start-Stack,10415,965,1050,1050,1050,1050,1050,1050,1050,1050,1050,,,,,
+,,,,,,,,,,,,,,,,
+Johannes,43585,1650,4985,6505,7350,8255,4385,3590,5365,830,670,,,,,
+Tobias,15875,1950,3840,0,,6205,1080,0,0,835,1965,,,,,
+Richy,9250,1330,0,3970,,,2885,,,,1065,,,,,
+Sebastien,16015,,0,0,1050,,0,4185,2225,5265,3290,,,,,
+Clemens,965,,,965,,,,,,,,,,,,
+Stefan,n. t.,,,,,,,,,,,,,,,
+Matthias,1410,,,,,,0,,,,1410,,,,,
+Luna,890,,0,,,890,,,,,,,,,,
+Meowl,n. t.,,,,,,,,,,,,,,,
+Svenja,n. t.,,,,,,,,,,,,,,,
+Voicheck,n. t.,,,,,,,,,,,,,,,
+Dominik,2960,860,,,,,2100,,,,,,,,,
+Lucie,0,0,,,,,,,,,,,,,,
+Hendrik,0,0,,,,,,,,,,,,,,
+Rosa,190,,,190,,,,,,,,,,,,
+Max,0,,,0,,,,,,,,,,,,
+Cassandra,1050,,0,,1050,,,,,,,,,,,
+Konstantin,1950,,,,,0,,,1950,,,,,,,
+Tom,1035,,,,,0,,,,1035,,,,,,
+Lukas,3385,,,,,,,,,3385,,,,,,
+Hauke,4990,,,,,,815,2515,1660,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Netto-Gewinne,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Johannes,30020,685,3935,5455,6300,7205,3335,1490,4315,-1270,-1430,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Tobias,-1540,985,2790,-1050,n. t.,5155,30,-3150,-4050,-2115,-135,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Richy,1985,365,-1050,2920,n. t.,n. t.,785,n. t.,n. t.,n. t.,-1035,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Sebastien,-385,n. t.,-1050,-2100,-2100,n. t.,-2900,3135,-1825,4215,2240,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Clemens,-1660,n. t.,n. t.,-1660,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Stefan,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Matthias,-1740,n. t.,n. t.,n. t.,n. t.,n. t.,-2100,n. t.,n. t.,n. t.,360,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Luna,-1210,n. t.,-1050,n. t.,n. t.,-160,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Meowl,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Svenja,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Voicheck,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Dominik,945,-105,n. t.,n. t.,n. t.,n. t.,1050,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Lucie,-965,-965,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Hendrik,-965,-965,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Rosa,-860,n. t.,n. t.,-860,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Max,-1050,n. t.,n. t.,-1050,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Cassandra,-7145,n. t.,-2945,n. t.,-4200,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Konstantin,-2250,n. t.,n. t.,n. t.,n. t.,-2100,n. t.,n. t.,-150,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Tom,-4765,n. t.,n. t.,n. t.,n. t.,-3700,n. t.,n. t.,n. t.,-1065,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Lukas,0,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,0,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Hauke,-2360,n. t.,n. t.,n. t.,n. t.,n. t.,-235,-2735,610,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Platzierungen,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Spieler,"3,5",6,6,7,3,5,6,3,4,4,5,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Johannes,"2,0",2,1,1,1,1,1,2,1,5,5,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Tobias,"3,2",1,2,5,n. t.,2,4,4,5,4,2,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Richy,"2,8",3,3,2,n. t.,n. t.,2,n. t.,n. t.,n. t.,4,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Sebastien,"2,6",n. t.,3,5,2,n. t.,6,1,2,1,1,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Clemens,"3,0",n. t.,n. t.,3,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Stefan,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Matthias,"4,5",n. t.,n. t.,n. t.,n. t.,n. t.,6,n. t.,n. t.,n. t.,3,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Luna,"3,0",n. t.,3,n. t.,n. t.,3,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Meowl,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Svenja,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Voicheck,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Dominik,"3,5",4,n. t.,n. t.,n. t.,n. t.,3,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Lucie,"5,0",5,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Hendrik,"5,0",5,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Rosa,"4,0",n. t.,n. t.,4,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Max,"5,0",n. t.,n. t.,5,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Cassandra,"2,5",n. t.,3,n. t.,2,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Konstantin,"3,5",n. t.,n. t.,n. t.,n. t.,4,n. t.,n. t.,3,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Tom,"3,5",n. t.,n. t.,n. t.,n. t.,4,n. t.,n. t.,n. t.,3,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Lukas,"2,0",n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,n. t.,2,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+Hauke,"4,0",n. t.,n. t.,n. t.,n. t.,n. t.,5,3,4,n. t.,n. t.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.,n. n. gesp.
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Anzahl Buy-Ins,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,AVG,,,,,,,,,,,,,,,
+Johannes,"1,30",1,1,1,1,1,1,2,1,2,2,,,,,
+Tobias,"1,89",1,1,1,0,1,1,3,4,3,2,,,,,
+Richy,"1,40",1,1,1,0,0,2,0,0,0,2,,,,,
+Sebastien,"2,22",0,1,2,3,4,3,1,4,1,1,,,,,
+Clemens,"3,00",0,0,3,0,0,0,0,0,0,0,,,,,
+Stefan,n. t.,0,0,0,0,0,0,0,0,0,0,,,,,
+Matthias,"1,50",0,0,0,0,0,2,0,0,0,1,,,,,
+Luna,"1,00",0,1,0,0,1,0,0,0,0,0,,,,,
+Meowl,n. t.,0,0,0,0,0,0,0,0,0,0,,,,,
+Svenja,n. t.,0,0,0,0,0,0,0,0,0,0,,,,,
+Voicheck,n. t.,0,0,0,0,0,0,0,0,0,0,,,,,
+Dominik,"1,00",1,0,0,0,0,1,0,0,0,0,,,,,
+Lucie,"1,00",1,0,0,0,0,0,0,0,0,0,,,,,
+Hendrik,"1,00",1,0,0,0,0,0,0,0,0,0,,,,,
+Rosa,"1,00",0,0,1,0,0,0,0,0,0,0,,,,,
+Max,"1,00",0,0,1,0,0,0,0,0,0,0,,,,,
+Cassandra,"4,00",0,4,0,4,0,0,0,0,0,0,,,,,
+Konstantin,"2,00",0,0,0,0,2,0,0,2,0,0,,,,,
+Tom,"4,00",0,0,0,0,6,0,0,0,2,0,,,,,
+Lukas,"2,00",0,0,0,0,0,0,0,0,2,0,,,,,
+Hauke,"2,00",0,0,0,0,0,1,4,1,0,0,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Rebuy-Stacks,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Buy-In-Stack,,965,1050,1050,1050,1050,1050,1050,1050,1050,1050,,,,,
+Rebuy-1,,,1050,1050,1050,1050,1050,1050,1050,1050,1050,,,,,
+Rebuy-2,,,525,525,1050,750,800,1050,800,850,850,,,,,
+Rebuy-3,,,215,215,1050,500,600,1050,650,700,700,,,,,
+Rebuy-4,,,105,105,1050,250,400,1050,500,600,600,,,,,
+Rebuy-5,,,55,55,1050,100,200,1050,400,550,550,,,,,
+Rebuy-6,,,,,,,100,1050,350,550,550,,,,,
